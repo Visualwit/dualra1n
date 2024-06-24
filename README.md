@@ -1,15 +1,15 @@
 <div align="center">
 <img src="https://github.com/hostedbyjustus/dualra1n/assets/139512773/8de3d184-5d1a-4432-807f-e8f47fd34b94" height="128" width=!"128" style="border-radius:25%">
    <h1> dualra1n
-      <br/> Dualboot iOS 15 and 14 iDevices to 15 - 13.6
+      <br/> Dualboot iOS 15 and 14 iDevices to 15 - 13.7
    </h1>
 </div>
 
-<h6 align="center"> Supports iOS 13.6-15.8.2 on A9-A11 devices </h6>
+<h6 align="center"> Supports iOS 13.7-15.8.2 on A9-A11 devices </h6>
 
 #### This will **NOT WORK** on devices with iOS 16.
 
-#### However this script lets you dualboot iOS 15-13.6, (semi-tethered) on [checkm8](https://www.theiphonewiki.com/wiki/Checkm8_Exploit)-vulnerable devices.
+#### However this script lets you dualboot iOS 15-13.7, (semi-tethered) on [checkm8](https://www.theiphonewiki.com/wiki/Checkm8_Exploit)-vulnerable devices.
 #### This is not a downgrade, however you can use [downr1n](https://github.com/edwin170/downr1n) instead.
 
 # Interested in dualbooting or downgrading to lower firmwares? 
